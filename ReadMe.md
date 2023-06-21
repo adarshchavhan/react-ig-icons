@@ -29,5 +29,5 @@ const App = () => {
 }
 ```
 ## Demo
-To see the live exmple [click here]('https://ig-icons.netlify.app/')
+To see the live exmple 👉 https://ig-icons.netlify.app/
 
